@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Azure
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about homebrewing
 - 😄 Pronouns: he/him/his
 
