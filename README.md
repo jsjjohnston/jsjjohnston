@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Azure
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about homebrewing
+- 😄 Pronouns: he/him/his
+
 <!--
 **jsjjohnston/jsjjohnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
