@@ -2,7 +2,7 @@
 
 Software engineer in Melbourne, Australia, working fully remote since 2021. I build production systems in Go, TypeScript/React and C#/.NET on Google Cloud and Azure, with a focus on secure by design.
 
-- 💼 **Open to fully remote software engineering roles.** [LinkedIn](https://www.linkedin.com/in/jay-johnston-79956223/) · jsjjohnston@gmail.com
+- 💼 **Open to fully remote software engineering roles.** [LinkedIn](https://www.linkedin.com/in/jsjjohnston/) · jsjjohnston@gmail.com
 - 🔭 Recently led a patient data protection system at Montu: a Go and Terraform service that finds PII/PHI in BigQuery and enforces least-privilege and just-in-time access.
 - 🛠️ Go · TypeScript · React · Next.js · C# / ASP.NET · GCP (BigQuery, IAM, GKE) · Azure (AKS, Functions, Service Bus) · Kubernetes · Terraform · PostgreSQL
 - 🤖 Use Claude Code daily as an AI pair programmer, and have shipped LLM features with OpenAI and open source models.
